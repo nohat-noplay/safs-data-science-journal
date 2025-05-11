@@ -1,0 +1,2 @@
+it is possible to make HeapSort in-place by integrating it into the heap’s code (more complicated!) • First organise the array into a heap incrementally by ‘expanding’ the heap one element at a time and adding that new element - This is termed to ‘heapify’ the array 
+• Then every time the root is taken from the heap, add it to the array slot that has just been ‘vacated’ by the last node

@@ -1,0 +1,1 @@
+To understand Algorithmic Complexity Analysis ([[Time Complexity Analysis|Big-O]]), we looked at [[Sorting - Time Complexity|Time Complexity Analysis]] of basic Sorting algorithms such as [[Bubble Sort]], [[Insertion Sort]] & [[Selection Sort]]. Sorting algorithms are an important pre-step to perform searches on data using [[Binary Search]].
