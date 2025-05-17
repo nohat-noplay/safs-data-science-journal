@@ -1,0 +1,1 @@
+If an itemset meets the minSup threshold but it a subset of another itemset that also meets the minSup threshold, then the subset it not counted, only the superset. The super set is the Maximal Frequent Itemset. 

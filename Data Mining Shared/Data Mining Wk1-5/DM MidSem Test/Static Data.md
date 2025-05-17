@@ -1,0 +1,4 @@
+- with replacement
+- without replacement
+- biased - uses domain knowledge to be selective
+- stratified - allows for minorities / representative of smaller groups

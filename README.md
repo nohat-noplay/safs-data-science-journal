@@ -20,7 +20,20 @@ Many of the visual elements helped me grasp ideas faster than slides or textbook
 **Data Structures & Algorithms:**
 - `Data Structures & Algorithms.canvas` – the interactive Obsidian canvas.
 - `DSA_Shared/` – folder with all linked `.md` files, diagrams, and GIFs used in the canvas.
-- `Data Structures & Algorithms.png` – a preview image of the canvas for quick browsing 
+
+**Regression & Non-parametric Inference**:
+- `Nonparametric & Regression.canvas` – the interactive Obsidian canvas.
+- `Nonparametric & Regression Shared` – folder with all linked `.md` files, diagrams, and GIFs used in the canvas.
+
+**Data Mining**:
+- `Data Mining.canvas`  – the interactive Obsidian canvas.
+- `Data Mining Shared` – folder with all linked `.md` files, diagrams, and GIFs used in the canvas.
+
+
+**Previews of all canvas's**:
+- `Canvas Previews`
+
+
 
 **_MORE COMING SOON!_**
 
@@ -75,3 +88,7 @@ _just a png preview without the interactive-ness of Obsidian canvases_
 
 **DSA**:
 ![alt text](<Data Structures & Algorithms.png>)
+Regression & Non-Parametric Inference:
+![alt text](<Nonparametric & Regression Shared.png>)
+Data Mining
+![alt text](<Data Mining.png>)

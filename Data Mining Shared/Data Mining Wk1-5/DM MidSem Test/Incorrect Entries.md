@@ -1,0 +1,3 @@
+- Check inconsistencies
+- Use Domain Knowledge
+- Detect outliers

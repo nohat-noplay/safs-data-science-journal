@@ -1,0 +1,1 @@
+A minimum confidence can be set. This is called *minconf*.

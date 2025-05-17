@@ -1,0 +1,1 @@
+A chosen percentage or absolute count specifying the minimum number of transactions an itemset must appear. This is used to filter out itemsets that appear too infrequently so therefore itemsets that meet or exceed MinSup are considered "Frequent Items". 

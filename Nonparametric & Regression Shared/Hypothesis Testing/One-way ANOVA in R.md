@@ -1,0 +1,1 @@
+`library(summary)``summary(aov(NUMDATA ~ CATDATA, DATAFRAME))`

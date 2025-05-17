@@ -1,0 +1,1 @@
+For two independent samples as an alternative to the Two Sample t-test or the Wilcoxon Rank Sum test. 

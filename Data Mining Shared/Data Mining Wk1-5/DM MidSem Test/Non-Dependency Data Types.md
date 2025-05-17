@@ -1,0 +1,6 @@
+- Quantitative (Numerical)
+- Categorical 
+- Nominal (Categorical but with order)
+- Binary
+- Set
+- Text

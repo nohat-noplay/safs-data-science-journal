@@ -1,0 +1,3 @@
+- Discard (delete)
+- Impute (replace)
+- Accept (make into a variable)

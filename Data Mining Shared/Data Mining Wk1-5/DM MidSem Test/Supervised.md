@@ -1,0 +1,10 @@
+- Filter: 
+	 - Evaluate Features without clustering
+	 - One Feature at a time
+	 - Rank Features
+- Wrapper
+	- Classification then evaluate
+- Embedded
+	- Pruning
+	- Decision Tree
+	- Regulasation

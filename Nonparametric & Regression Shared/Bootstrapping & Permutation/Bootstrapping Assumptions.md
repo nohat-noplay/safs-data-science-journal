@@ -1,0 +1,1 @@
+With Replacement. Independent Samples, Representative Samples, Large Enough Sample Size, Data points are non-dependent to each other (non-ordered), Sufficient number of bootstrapped samples, Not significant number of outliers, Does not require distribution of data to be normal

@@ -1,0 +1,4 @@
+- 'Curse of dimensionality' - $L_p$ distance less effective when dimensionality increases
+- Feature Irrelevance - feature relevant to 1 group but not to others
+- Larger $p$ tends to emphasize irrelevant features
+- Data distribution influences distance by Density & Orientation

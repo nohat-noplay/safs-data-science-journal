@@ -1,0 +1,1 @@
+$$\text{conf}(\{A\} \Rightarrow \{B\}) = \frac{\text{sup}(\{A, B\})}{\text{sup}(\{A\})} = \frac{0.?}{0.?} = 0.? = ?\%$$

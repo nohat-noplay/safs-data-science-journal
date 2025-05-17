@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "497d4c60c68b5d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e9ada709e8f9744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a74907f4e7c1e2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7581022a58dd249c",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f5684135d0bcd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ea5940a5a6bdd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cff1fd52aebd47b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cdfb31fca763e13a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6c14e9a74a0e6d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a3641105fb07a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a76716e4de3e80f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures & Algorithms.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Data Structures & Algorithms"
+            }
+          },
+          {
+            "id": "2bf8c7dabed45833",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structures & Algorithms.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Data Structures & Algorithms"
+            }
+          },
+          {
+            "id": "140188eaae5a39d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a74bc3353731d7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures & Algorithms.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Data Structures & Algorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a74907f4e7c1e2bf",
+  "lastOpenFiles": [
+    "Data Mining.canvas",
+    "Data Mining Shared/DM Canvas.canvas",
+    "Canvas Previews/Data Mining.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20240910103132.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20240910103105.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20240910103041.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20240910103009.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20240910102943.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20240910102929.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20240910102903.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20240910102848.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images/Pasted image 20241022070124.png",
+    "Data Mining Shared/Data Mining Wk7-12/Pasted Images",
+    "Data Mining Shared/Data Mining Wk7-12/New folder",
+    "Data Mining Shared/Data Mining Wk7-12/DM Exam.md",
+    "Data Mining Shared/Data Mining Wk1-5/Data Mining Weeks 7-12.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Support.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/MinSup (Minimum Support).md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Support Monotonicity Property.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/MinConf (Minimum Confidence).md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Association Rules.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Lattice.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/FP Growth Algorithm.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Maximal Frequent Itemsets.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Brute Force Algorithm.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Confidence.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Downward Closure Property.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Association Pattern Mining.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining/Apriori Algorithm.md",
+    "Data Mining Shared/Data Mining Wk1-5/Associative Pattern Mining",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/LCSS - Longest Common Subsequence - Text.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/Temporal Similarity Measures.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/Mixed Num & Cat Data Similarity.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/Quantitative Data Distance Measure.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/ISOMAP K-NN.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/Edit Distance - Discrete Sequences.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/Data Similarity & Distance.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/Categorical Data Similarity Measurement.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/Basic Cosine Similarity - Text.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance/Contrast.md",
+    "Data Mining Shared/Data Mining Wk1-5/Similarity and Distance",
+    "Data Mining Shared/Data Mining Wk1-5/Dat Prep",
+    "Data Mining Shared/Data Mining Wk1-5/Intro to DM",
+    "Data Mining Shared/Pasted Images",
+    "Data Mining Shared/Data Mining Wk7-12/Clustering",
+    "Data Mining Shared/Data Mining Wk1-5/DM Week 4/desktop.ini",
+    "Data Mining Shared/Data Mining Wk1-5/DM Week 3/desktop.ini",
+    "Data Mining Shared/Data Mining Wk1-5/DM MidSem Test/DM MidSem Mindmap.canvas",
+    "Nonparametric & Regression.canvas",
+    "Nonparametric & Regression Shared.canvas",
+    "Stat Wk5.canvas",
+    "STAT Wk4.canvas",
+    "Nonparametric & Regression Shared/SLR & MLR/STAT EXAM note pages.canvas",
+    "Data Structures & Algorithms.canvas",
+    "DSA_Shared/FIXED_Data Structures & Algorithms.canvas"
+  ]
+}

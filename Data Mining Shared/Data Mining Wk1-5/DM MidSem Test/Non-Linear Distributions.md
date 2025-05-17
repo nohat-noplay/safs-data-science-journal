@@ -1,0 +1,4 @@
+- ISOMAP embedding (curved data jumping between k's following the curve)
+- Intrinsic dimension
+- Manifold learning 
+- Geodesic distance 

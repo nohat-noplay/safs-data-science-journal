@@ -1,0 +1,10 @@
+
+-**Original Statistic**: Calculate the statistic (mean, median, etc.) for the original sample: $\bar{x}$.
+-**Bootstrap Sampling**: Create a bootstrap sample by sampling with replacement from the original dataset.
+-**Statistic for Bootstrap Sample**: Calculate the statistic (e.g., mean) for each bootstrap sample: 
+-**Repeat many times** generating {$\bar{x_{B1}}, \bar{x_{B2}}, ..., \bar{x_{Bn}}$}
+-**Histogram**: Plot the distribution of means of all bootstrapped samples to visualize variability.
+-**Calculate Bias**: $Bias = \bar{x_B} - \bar{x}$ <- Bootstrapped mean minus original sample mean 
+-**Standard Error**: $SE_B = \sqrt{\frac{\sum(\bar{x_{Bi}} - \bar{x_B})^2}{B-1}}$ where $\bar{x_{Bi}}$ is the mean of a individual bootstrapped mean and $\bar{x_B}$ overall bootstrapped mean and $B$ is the number of times bootstrapping took place - if it's more than 10%-20%, need to investigate
+-**95% Confidence Interval**: $CI_{95}=[Q0.025,Q0.975]$ `quantile(data.boot1, c(0.025, 0.975))`
+-> Bootstrap distribution will be used to estimate the variability of the sample mean of the original sample...and will become more bell shaped as number of boot samples increases

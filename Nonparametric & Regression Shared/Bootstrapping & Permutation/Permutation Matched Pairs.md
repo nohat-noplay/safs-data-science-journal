@@ -1,0 +1,3 @@
+- alternative to the Paired t-test or the Wilcoxon Sample Rank for Matched Pairs test. 
+-  carry out the permutation within each paired observations
+-  if there are $n$ paired observations, there will be $2^n$ permutations.

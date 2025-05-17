@@ -1,0 +1,1 @@
+$$\text{Relative Support(X)}$ = $\frac{\text{Number of transactions containing X}}{\text{Total number of transactions}}$$

@@ -1,0 +1,1 @@
+Leverages Monotonicity to state that if an itemset $I$ is frequent (i.e., it meets the minimum support threshold), then all of its subsets must also be frequent.
