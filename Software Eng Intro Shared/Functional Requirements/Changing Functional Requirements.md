@@ -1,0 +1,2 @@
+This can be expensive to fix late in the project 
+In an [[Week 2 Agile Project Management|Agile Project Management]] system - faulty requirements are very quick to find because the client can see almost immediately. Damage is limited to one iterations (Sprint) worth of work. 

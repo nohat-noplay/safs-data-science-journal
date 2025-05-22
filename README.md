@@ -29,6 +29,9 @@ Many of the visual elements helped me grasp ideas faster than slides or textbook
 - `Data Mining.canvas`  – the interactive Obsidian canvas.
 - `Data Mining Shared` – folder with all linked `.md` files, diagrams, and GIFs used in the canvas.
 
+**Intro to Software Engineering:**
+- `Intro to Software Engineering.canvas`  – the interactive Obsidian canvas.
+- `Software Eng Intro Shared` – folder with all linked `.md` files, diagrams, and GIFs used in the canvas.
 
 **Previews of all canvas's**:
 - `Canvas Previews`
@@ -91,4 +94,9 @@ _just a png preview without the interactive-ness of Obsidian canvases_
 Regression & Non-Parametric Inference:
 ![alt text](<Canvas Previews/Nonparametric & Regression Shared.png>)
 Data Mining
+<<<<<<< HEAD
 ![alt text](<Canvas Previews/Data Mining.png>)
+=======
+![alt text](<Data Mining.png>)Intro to Software Engineering Preview
+![[Intro to Software Engineering Mindmap.png]]
+>>>>>>> 18231fa (added intro software)
