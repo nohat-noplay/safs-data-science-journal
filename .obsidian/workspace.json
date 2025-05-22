@@ -11,17 +11,14 @@
             "id": "a74907f4e7c1e2bf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Intro to Software Engineering Mindmap.canvas",
-                "viewState": {
-                  "x": -645.5,
-                  "y": 227.5,
-                  "zoom": -3.4063335812963866
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Intro to Software Engineering Mindmap"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -173,10 +170,10 @@
   },
   "active": "a74907f4e7c1e2bf",
   "lastOpenFiles": [
+    "Canvas Previews/Intro to Software Engineering.png",
     "README.md",
+    "Intro to Software Engineering.canvas",
     "Software Eng Intro Shared/Modularity/Coupling.md",
-    "Intro to Software Engineering Mindmap.canvas",
-    "Canvas Previews/Intro to Software Engineering Mindmap.png",
     "Software Eng Intro Shared/Version Control/Version Control.md",
     "Software Eng Intro Shared/Modularity/Code Reusability Redundancy.md",
     "Software Eng Intro Shared/Modularity/Cohesion.md",

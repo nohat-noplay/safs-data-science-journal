@@ -94,8 +94,7 @@ _just a png preview without the interactive-ness of Obsidian canvases_
 Regression & Non-Parametric Inference:
 ![alt text](<Canvas Previews/Nonparametric & Regression Shared.png>)
 Data Mining
-<<<<<<< HEAD
 ![alt text](<Canvas Previews/Data Mining.png>)
-=======
-![alt text](<Data Mining.png>)Intro to Software Engineering Preview
-![[Intro to Software Engineering Mindmap.png]]
+
+Intro to Software Engineering Preview
+![[Intro to Software Engineering.png]]
