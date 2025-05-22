@@ -99,4 +99,3 @@ Data Mining
 =======
 ![alt text](<Data Mining.png>)Intro to Software Engineering Preview
 ![[Intro to Software Engineering Mindmap.png]]
->>>>>>> 18231fa (added intro software)
