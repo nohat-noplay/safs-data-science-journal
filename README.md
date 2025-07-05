@@ -91,10 +91,12 @@ _just a png preview without the interactive-ness of Obsidian canvases_
 
 **DSA**:
 ![alt text](<Canvas Previews/Data Structures & Algorithms.png>)
-Regression & Non-Parametric Inference:
+**Regression & Non-Parametric Inference:**
 ![alt text](<Canvas Previews/Nonparametric & Regression Shared.png>)
-Data Mining
+**Data Mining**
 ![alt text](<Canvas Previews/Data Mining.png>)
+**Intro to Software Engineering Preview**
+![alt text](<Canvas Previews/Intro to Software Engineering.png>)
 
-Intro to Software Engineering Preview
-![[Intro to Software Engineering.png]]
+
+
