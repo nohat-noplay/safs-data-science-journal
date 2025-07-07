@@ -17,6 +17,10 @@ Many of the visual elements helped me grasp ideas faster than slides or textbook
 
 ## Units covered
 
+**Experimental Design:**
+- `Experimental Design.canvas` – the interactive Obsidian canvas.
+- `Experimental Design Shares` – folder with all linked `.md` files, diagrams, and GIFs used in the canvas.
+
 **Data Structures & Algorithms:**
 - `Data Structures & Algorithms.canvas` – the interactive Obsidian canvas.
 - `DSA_Shared/` – folder with all linked `.md` files, diagrams, and GIFs used in the canvas.
@@ -89,6 +93,8 @@ You are welcome to view and learn from this work, but you may not copy, modify, 
 ## Previews of Each canvas 
 _just a png preview without the interactive-ness of Obsidian canvases_
 
+**Experimental Design**
+![alt text](<Canvas Previews/Experimental Design.png>)
 **DSA**:
 ![alt text](<Canvas Previews/Data Structures & Algorithms.png>)
 **Regression & Non-Parametric Inference:**

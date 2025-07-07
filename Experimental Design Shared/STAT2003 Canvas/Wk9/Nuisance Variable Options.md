@@ -1,0 +1,3 @@
+- Blocking (can make categories)
+- ANCOVA
+- Have enough samples that the it waters down the nuisance variable
